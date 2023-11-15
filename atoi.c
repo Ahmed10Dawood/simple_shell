@@ -1,10 +1,9 @@
 #include "shell.h"
 
 /**
- * interactive - returns  code to be true 
+ * interactive - returns  code to be true
  * @info: the structure address
- *
- * Return: if interactive in  mode return 1, 0 
+ * Return: if interactive in  mode return 1, 0
  */
 int interactive(info_t *info)
 {
